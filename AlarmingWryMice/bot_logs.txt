@@ -1,0 +1,54 @@
+2025-03-25 01:44:25,891 - INFO - Start polling
+2025-03-25 01:44:26,489 - INFO - Run polling for bot @wttmanager_robot id=7513338167 - 'WTT MANAGER by wttstudio'
+2025-03-25 01:44:27,727 - INFO - Update id=935698040 is handled. Duration 587 ms by bot id=7513338167
+2025-03-25 01:44:36,932 - INFO - Update id=935698041 is handled. Duration 199 ms by bot id=7513338167
+2025-03-25 01:44:41,322 - INFO - Update id=935698042 is handled. Duration 212 ms by bot id=7513338167
+2025-03-25 01:44:45,234 - INFO - Update id=935698043 is handled. Duration 203 ms by bot id=7513338167
+2025-03-25 01:46:01,024 - INFO - Update id=935698044 is handled. Duration 202 ms by bot id=7513338167
+2025-03-25 01:46:05,258 - INFO - Update id=935698045 is handled. Duration 201 ms by bot id=7513338167
+2025-03-25 01:46:12,027 - INFO - Update id=935698046 is handled. Duration 202 ms by bot id=7513338167
+2025-03-25 01:46:17,369 - INFO - Update id=935698047 is handled. Duration 201 ms by bot id=7513338167
+2025-03-25 01:48:53,388 - WARNING - Received SIGTERM signal
+2025-03-25 01:48:53,389 - INFO - Polling stopped for bot @wttmanager_robot id=7513338167 - 'WTT MANAGER by wttstudio'
+2025-03-25 01:48:53,389 - INFO - Polling stopped
+2025-03-25 01:49:00,669 - INFO - Start polling
+2025-03-25 01:49:01,236 - INFO - Run polling for bot @wttmanager_robot id=7513338167 - 'WTT MANAGER by wttstudio'
+2025-03-25 01:49:11,245 - INFO - Update id=935698048 is handled. Duration 591 ms by bot id=7513338167
+2025-03-25 01:49:18,092 - INFO - Update id=935698049 is handled. Duration 211 ms by bot id=7513338167
+2025-03-25 01:49:22,186 - INFO - Update id=935698050 is handled. Duration 259 ms by bot id=7513338167
+2025-03-25 01:49:26,207 - INFO - Update id=935698051 is handled. Duration 201 ms by bot id=7513338167
+2025-03-25 01:51:56,884 - WARNING - Received SIGTERM signal
+2025-03-25 01:51:56,885 - INFO - Polling stopped for bot @wttmanager_robot id=7513338167 - 'WTT MANAGER by wttstudio'
+2025-03-25 01:51:56,885 - INFO - Polling stopped
+2025-03-25 01:52:19,540 - INFO - Start polling
+2025-03-25 01:52:20,108 - INFO - Run polling for bot @wttmanager_robot id=7513338167 - 'WTT MANAGER by wttstudio'
+2025-03-25 01:52:27,761 - INFO - Update id=935698052 is handled. Duration 0 ms by bot id=7513338167
+2025-03-25 01:52:51,497 - WARNING - Received SIGTERM signal
+2025-03-25 01:52:51,497 - INFO - Polling stopped for bot @wttmanager_robot id=7513338167 - 'WTT MANAGER by wttstudio'
+2025-03-25 01:52:51,497 - INFO - Polling stopped
+2025-03-25 01:52:57,430 - INFO - Start polling
+2025-03-25 01:52:57,992 - INFO - Run polling for bot @wttmanager_robot id=7513338167 - 'WTT MANAGER by wttstudio'
+2025-03-25 01:53:04,957 - INFO - Update id=935698053 is handled. Duration 0 ms by bot id=7513338167
+2025-03-25 01:53:06,936 - INFO - Update id=935698054 is handled. Duration 577 ms by bot id=7513338167
+2025-03-25 01:53:10,810 - INFO - Update id=935698055 is handled. Duration 244 ms by bot id=7513338167
+2025-03-25 01:54:25,819 - INFO - Update id=935698056 is handled. Duration 209 ms by bot id=7513338167
+2025-03-25 01:56:50,030 - INFO - 📩 1302073426 (tomiok_o): bebeshka
+2025-03-25 01:56:50,030 - INFO - 📩 1302073426 (tomiok_o): bebeshka
+2025-03-25 01:56:50,030 - INFO - Update id=935698057 is handled. Duration 0 ms by bot id=7513338167
+2025-03-25 01:56:54,191 - WARNING - Received SIGTERM signal
+2025-03-25 01:56:54,192 - INFO - Polling stopped for bot @wttmanager_robot id=7513338167 - 'WTT MANAGER by wttstudio'
+2025-03-25 01:56:54,192 - INFO - Polling stopped
+2025-03-25 01:56:58,284 - INFO - Start polling
+2025-03-25 01:56:58,851 - INFO - Run polling for bot @wttmanager_robot id=7513338167 - 'WTT MANAGER by wttstudio'
+2025-03-25 01:57:02,829 - INFO - Update id=935698058 is handled. Duration 582 ms by bot id=7513338167
+2025-03-25 01:57:07,189 - INFO - Update id=935698059 is handled. Duration 200 ms by bot id=7513338167
+2025-03-25 01:57:41,239 - WARNING - Received SIGTERM signal
+2025-03-25 01:57:41,239 - INFO - Polling stopped for bot @wttmanager_robot id=7513338167 - 'WTT MANAGER by wttstudio'
+2025-03-25 01:57:41,239 - INFO - Polling stopped
+2025-03-25 01:57:45,225 - INFO - Start polling
+2025-03-25 01:57:45,792 - INFO - Run polling for bot @wttmanager_robot id=7513338167 - 'WTT MANAGER by wttstudio'
+2025-03-25 01:57:54,192 - INFO - Update id=935698060 is handled. Duration 595 ms by bot id=7513338167
+2025-03-25 01:57:58,453 - INFO - Update id=935698061 is handled. Duration 199 ms by bot id=7513338167
+2025-03-25 01:58:04,726 - INFO - Update id=935698062 is handled. Duration 2522 ms by bot id=7513338167
+2025-03-25 02:01:00,680 - INFO - Update id=935698063 is handled. Duration 2409 ms by bot id=7513338167
+2025-03-25 02:01:04,355 - INFO - Update id=935698064 is handled. Duration 237 ms by bot id=7513338167
